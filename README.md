@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, Hola Mi Nombre es Sahil Ali </h1>
-<h3 align="center"> Python Backend Developer Specialised in NLP and Computer Vision </h3>
+<h3 align="center"> SDE & Neural Developer</h3>
 
 <p align="center"> 
 <!---
