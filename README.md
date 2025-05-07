@@ -29,28 +29,34 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestarsahil/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thestarsahil)
 
+<h3 align="left">Language</h3>
+
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cpp&logoColor=white)
 
 <h3 align="left">Platforms / Hardware</h3>
+
 ![ARM](https://img.shields.io/badge/ARM-%230097C4.svg?style=for-the-badge&logo=arm&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-%23009788.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge&logo=esphome&logoColor=white)
 
 <h3 align="left">IDEs / Tools</h3>
+
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23F48024.svg?style=for-the-badge&logo=platformio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h3 align="left">RTOS / OS</h3>
+
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-%230097C4.svg?style=for-the-badge&logoColor=white)
 
 <h3 align="left">🐧 Linux Distribution Using</h3>
-🐧 Linux Distribution Using
+
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793d1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-<h3 align="left"></h3>
+<h3 align="left">Data Connection</h3>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
