@@ -13,13 +13,13 @@
 </p>
   
 
-- 🌱 I’m currently working on **Natural Language Processing and Computer Vision**
+- 🌱 I’m currently working on **Computer Vision**
 
-- 👯 I’m looking to collaborate on **Full Stack Project**
+- 👯 I’m looking to collaborate on **Embedded Project**
 
 - 👨‍💻 All of my projects are available here !
 
-- 💬 Ask me about anything related to **Full Stack , NLP, LLMs, DSA**
+- 💬 Ask me about anything related to **DSA**
 
 - 📫 How to reach me **https://www.linkedin.com/in/thestarsahil/**
 
